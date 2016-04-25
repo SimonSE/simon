@@ -1,0 +1,2 @@
+# simon
+wordpress theme
